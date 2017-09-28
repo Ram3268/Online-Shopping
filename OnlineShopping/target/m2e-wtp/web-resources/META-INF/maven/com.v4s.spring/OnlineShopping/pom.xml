@@ -15,6 +15,12 @@
 
 	<dependencies>
 
+		<!-- LINKING BACKEND PROJECT -->
+		<dependency>
+			<groupId>com.v4s.spring</groupId>
+			<artifactId>shoppingbackend</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 
 		<!-- JAVAEE API -->
 		<!-- https://mvnrepository.com/artifact/javax/javaee-api -->
